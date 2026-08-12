@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-RACECAR Neo Connection Diagnostics
+RACECAR Neo Connection Diagnostics 
 
 Tests the networking path between WSL2/Linux and the RacecarNeo Simulator.
 Run this script to debug connectivity issues before launching the simulator.
