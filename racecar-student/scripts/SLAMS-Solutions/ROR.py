@@ -1,5 +1,7 @@
 import math
 class ROR:
+    radius = 0
+    min_neighbord = 0
     def __init__(self, radius, min_n):
         self.radius = radius
         self.min_neighbors = min_n
